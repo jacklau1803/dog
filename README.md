@@ -1,14 +1,10 @@
 # dog
 
-> Assignment 0 - dog, a C implementation of cat.
+> dog, a C implementation of cat.
 
 ## Author Info
 
-CSE130
-
 Jack Liu
-
-dliu34@ucsc.edu
 
 ## Run the code
 
